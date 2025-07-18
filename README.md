@@ -34,7 +34,7 @@ The code can be easily modified to add sensors or a virtual joystick.
 ## 📸 Images
 
 ### Interface Web no Navegador
-![Interface web](image/interface_web.png)
+![Interface web](image/interface_web.jpg)
 
 ## 📜 License
 
