@@ -33,7 +33,7 @@ Este projeto utiliza um **ESP8266 (Wemos D1 R1)** para controlar um carrinho via
 ## 📸 Imagens
 
 ### Interface Web no Navegador
-![Interface web](image/interface_web.png)
+![Interface web](image/interface_web.jpg)
 
 ## 📜 Licença
 
